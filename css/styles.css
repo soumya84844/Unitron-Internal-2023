@@ -320,17 +320,20 @@ height: 170px;
   left: -13px;
   top: -1px;
   vertical-align: middle;
-  background: #321414;
+  background: cyan;
   /* border-radius: 0% 50%; */
   /* height: 80px; */
   /* border: 6px #fff solid; */
   bottom: -1px;
 }
 .features .media.service-box .pull-left > i{
-color: #745151;
+color: black;
 font-size: 78px;
 padding-top: 10px;
 overflow: hidden;
 }
 .media.service-box:hover .pull-left > i {  
+}
+#main-nav {
+  background-color: cyan !important;
 }
